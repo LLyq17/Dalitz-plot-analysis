@@ -7,7 +7,7 @@ The analysis of three-body decay amplitude and phase
  
     cd GooFit/build/examples
     git clone git://github.com/LLyq17/Dalitz-plot-analysis.git
-    cd DalitzFit
+    cd Dalitz-plot-analysis
       
 # Building
 
@@ -19,5 +19,5 @@ The analysis of three-body decay amplitude and phase
  
  > To run one example, with timing information, use such as:
   
-    ./DalitzFit_Ds3pi_pwa FastMC_DsPiPiPi_PWA_11K_30pt_0.root
+    ./DalitzFit_Ds3pi FastMC_DsPiPiPi_PWA_11K_30pt_0.root
 
